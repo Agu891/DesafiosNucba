@@ -1,0 +1,12 @@
+
+body{background-image: url(./img/download.jpg);}
+h2{
+    color:blue ;
+}
+p { background-color: aquamarine;}
+.titulo { color: blueviolet; background-color: aquamarine;}
+
+.titulo2 {color: red;
+background-color: aquamarine;
+font-size: 35px;
+} 
