@@ -1,4 +1,11 @@
-.boxgral { border: 5px gray;
+.boxgral { 
+    box-sizing:content-box;
+    width: 150px;
+    height: 300px;
+    margin: 10px;
+    padding-left: 45%;
+    padding-top: 10%;
+    border: 200px gray;
 }
 
 .email{ display: block; border-radius: 10px;
