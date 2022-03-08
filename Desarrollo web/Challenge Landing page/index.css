@@ -1,0 +1,57 @@
+body{
+    background-image: url(https://www.teahub.io/photos/full/86-869886_hd-wood.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+nav{ 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 1%;
+    
+   object-fit: fill;
+}
+.imagen{
+   
+    object-fit: fill;
+    height: 100px;
+    width: 100px;
+
+}
+
+
+.ul1 {
+    display: flex;
+    list-style-type: none;
+    width: 15%;
+    justify-content: space-between;
+    
+}
+.ul2{
+    display: flex;
+    list-style-type: none;
+    width: 20%;
+    justify-content: space-between;
+    
+   
+}
+li{
+    border-left: 4px solid blue;
+    padding-left: 10px;
+    font-size: 150%;
+    font-weight: 600;
+    
+
+}
+a:link{
+    text-decoration: none;
+}
+a {
+    color:white
+}
+ul a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    
+}
